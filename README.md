@@ -18,7 +18,7 @@ It is a myth that to become a data scientist you need a Ph.D. This Professional 
 
 Upon successfully completing these courses you will have done several hands-on assignments and built a portfolio of data science projects to provide you with the confidence to plunge into an exciting profession in Data Science. In addition to earning a Professional Certificate from Coursera, you will also receive a digital Badge from IBM recognizing your proficiency in Data Science.
 
-# Peer-graded Assignment: Capstone Project Notebook's
+Peer-graded Assignment: Capstone Project Notebook's
 ## Course Contents:
 # Week 1 - Introduction to Capstone Project
 - Introduction to Capstone Project
@@ -28,7 +28,7 @@ Upon successfully completing these courses you will have done several hands-on a
 - Creating a project on Watson Studio, create a project, start a notebook and share it with your peers.
 - Location Data Providers
 - Signing-up for a Watson Studio Account
-## Peer-review Assignment: Capstone Project Notebook
+ Peer-review Assignment: Capstone Project Notebook
 # Week 2 - Foursquare API
 - Learning about Foursquare and its API.
 - Learning how to create a Foursquare developer account.
@@ -47,12 +47,12 @@ Upon successfully completing these courses you will have done several hands-on a
 - Clustering
 - Lab: Clustering
 - Lab: Segmenting and Clustering Neighborhoods in New York City
-## Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
+Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
 # Week 4 - Capstone Project
 - Define a problem for your capstone project.
 - Discuss the data that you will use to solve the problem.
-## Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
+Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 # Week 5 - Capstone Project (Cont'd)
 - Carry out the remaining work to complete the capstone project.
 - Submit a link to your project notebook and a complete project report.
-## Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 2)
+Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 2)
