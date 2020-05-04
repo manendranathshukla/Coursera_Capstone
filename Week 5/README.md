@@ -19,7 +19,7 @@ In this week, you will continue working on your capstone project. Please remembe
 > 1. Report: https://github.com/manendranathshukla/Coursera_Capstone/blob/master/Week%205/Final%20Report%20%20-%20Capstone%20Project%20%E2%80%93%20The%20Battle%20of%20Neighborhoods%20%20Finding%20a%20Better%20Place%20in%20Scarborough%2C%20Toronto.ipynb
 > 2. Notebook: https://github.com/manendranathshukla/Coursera_Capstone/blob/master/Week%205/Capstone%20Project%20%E2%80%93%20The%20Battle%20of%20Neighborhoods%20%20-%20Finding%20a%20Better%20Place%20in%20Scarborough%2C%20Toronto.ipynb
 
-> 3. Blogpost: http://mythingswork.herokuapp.com/post/8/
+> 3. Blogpost:http://mythingswork.herokuapp.com/post/9/
 
 
 
