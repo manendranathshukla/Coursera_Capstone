@@ -17,5 +17,5 @@ In this week, you will continue working on your capstone project. Please remembe
 **Here are examples of my submissions that should give you an idea of what your report would look like, what your notebook would look like in terms of clean, clear, and well-commented code, and what your presentation would look like or your blogpost would look like**:
 
 > 1. Report: http://bit.ly/31RseTc
-> 2. Notebook: http://bit.ly/2ORu9lj
+> 2. Notebook:https://github.com/manendranathshukla/Coursera_Capstone/blob/master/Week%205/Final%20Report%20%20-%20Capstone%20Project%20%E2%80%93%20The%20Battle%20of%20Neighborhoods%20%20Finding%20a%20Better%20Place%20in%20Scarborough%2C%20Toronto.ipynb
 > 3. Blogpost: http://mythingswork.herokuapp.com/post/8/
