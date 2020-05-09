@@ -5,7 +5,7 @@
 
  Final Project Code - https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/92a5a935-0436-4b89-942e-81c89b65b4ee/view?access_token=ad58f325757bfc28d5279ea219383625bba0ba8d9ce99c2726cfe4ef05be66c4
 
- BlogPost - http://roshangrewal.com/capstone-project-the-battle-of-neighborhoods-finding-a-better-place-in-scarborough-toronto/
+ BlogPost - http://mythingswork.herokuapp.com/post/9/
 
  Specialization Certificate Link: https://www.coursera.org/account/accomplishments/specialization/certificate/CJBQQ2TTHEV8
 
